@@ -1,0 +1,71 @@
+.phototheque {
+	margin-top:150px;
+}
+.h1Custom {
+	color:white;
+}
+.hide-bullets {
+	list-style:none;
+	margin-left: -40px;
+	margin-top:20px;
+}
+
+.thumbnail {
+	padding: 0;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	width: 100%;
+}
+
+body {
+	font: 20px Montserrat, sans-serif;
+	line-height: 1.8;
+	color: #f5f6f7;
+	background-color: #170CE8;
+}
+p {font-size: 16px;}
+.margin {margin-bottom: 45px;}
+.bg-1 {
+	background-color: #1abc9c;
+	color: #000000;
+}
+
+.bg-4 {
+	background-color: #2f2f2f;
+	color: #fff;
+}
+.container-fluid {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.navbar {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border: 0;
+	border-radius: 0;
+	margin-bottom: 0;
+	font-size: 15px;
+	letter-spacing: 3px;
+}
+.navbar-nav  li a:hover {
+	color: #FF530D !important;
+}
+.navbar-brand{
+
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	color: black;
+
+}
+
+
+footer {
+	bottom: 0;
+	height: 200px;
+}
+
+img {
+	 width: 100px;
+	 height: 100px;
+}
